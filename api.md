@@ -149,6 +149,7 @@ logout api endpoint  (it deletes the cookie on the browser)
         http-response-code: 200
         {
             "msg":"logout successful"
+<<<<<<< HEAD
         }
 
 update api endpoint (update user profile)
@@ -213,3 +214,6 @@ update api endpoint (update user profile)
         {
             "msg":"update successful"
         }
+=======
+        }
+>>>>>>> e81b3bc5cbe7f7d54c2b9a94dec315f42bfed30f
